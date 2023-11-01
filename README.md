@@ -1,5 +1,5 @@
-# my_first_repository
-Trying to get the hang of things :)
+# FaithCodeMalaria
+This is my repository for the AIMS Structured Masters project
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Pacomegp" alt="Pacomegp"/> 
@@ -7,7 +7,7 @@ Trying to get the hang of things :)
 
 <h1 align="center"> Hi, I'm Faith!:wave: </h1>
 
-<h3> 🙆‍♀️: &nbsp; About Me :point_down: </h3>
+<!--<h3> 🙆‍♀️: &nbsp; About Me :point_down: </h3>
 
 <p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the <a href="https://www.uct.ac.za/">University of Cape Town</a></em> :books:
 
@@ -31,7 +31,7 @@ Ask me about the following Density Functional Theory (DFT) & Boltzmann Transport
 <p align="left">
 <a href="https://github.com/Pacomegp/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Pacomehub-blue?style=flat&logo=github"></a>
 <a href="https://www.linkedin.com/in/pacome-nguimeya/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pacome Nguimeya-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/pacomenguimeya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@pacomenguimeya-blue?style=flat&logo=twitter"></a>
+<a href="https://twitter.com/pacomenguimeya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@pacomenguimeya-blue?style=flat&logo=twitter"></a>-->
 </p>
 <h2/>
 
